@@ -1,0 +1,6 @@
+.idea
+/venv
+__pycache__
+/core/__pycache__
+/employee_client_statistic/__pycache__
+/employee_client_statistic/migrations/__pycache__
